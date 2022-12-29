@@ -31,6 +31,7 @@ github_username:  kevinl03
 
 # Build settings
 theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
 
